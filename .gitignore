@@ -1,2 +1,4 @@
-build
+/build
+/cadical-sc2020/usr/
+/cadical-sc2020.deb
 makefile
