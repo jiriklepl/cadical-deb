@@ -1,0 +1,8 @@
+Package: cadical
+Version: 1.0.0
+Section: science
+Priority: optional
+Maintainer: Jiří Klepl <jiriklepl@seznam.cz>
+Homepage: https://github.com/jiriklepl/cadical-deb
+Architecture: all
+Description: The CaDiCal SAT solver
