@@ -4,7 +4,7 @@ ROOT="cadical-sc2020"
 
 BIN="$ROOT/usr/bin"
 LIB="$ROOT/usr/lib"
-CADICAL="$ROOT/usr/include/glucose"
+CADICAL="$ROOT/usr/include/cadical"
 
 rm -r "$ROOT/usr"
 mkdir -p $BIN
